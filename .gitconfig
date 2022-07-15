@@ -1,0 +1,12 @@
+[credential]
+	helper = store
+[user]
+	email = mi.siedlecki@gmail.com
+	name = siedlmi
+[init]
+	defaultBranch = main
+[color]
+	diff   = auto
+	status = auto
+	branch = auto
+	ui     = true
